@@ -1,0 +1,19 @@
+# Las 5 librerías más famosas de Python para iniciarse en programación
+
+# 1. requests - Para realizar peticiones HTTP y trabajar con APIs
+requests>=2.31.0
+
+# 2. matplotlib - Para crear gráficos y visualizaciones de datos
+matplotlib>=3.7.0
+
+# 3. pandas - Para manipulación y análisis de datos
+pandas>=2.0.0
+
+# 4. numpy - Para computación numérica y trabajo con arrays
+numpy>=1.24.0
+
+# 5. beautifulsoup4 - Para web scraping y análisis de HTML
+beautifulsoup4>=4.12.0
+
+# Dependencia adicional para beautifulsoup4
+lxml>=4.9.0
