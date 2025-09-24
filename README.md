@@ -1,2 +1,0 @@
-# PythonZTH
-Practicas de python
